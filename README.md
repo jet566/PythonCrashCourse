@@ -17,24 +17,23 @@ The folders are organized by chapters and project themes for easy navigation:
 ## 🚀 Getting Started
 
 1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/YourUsername/python-crash-course-solutions.git](https://github.com/YourUsername/python-crash-course-solutions.git)
+   ```git clone [https://github.com/YourUsername/python-crash-course-solutions.git](https://github.com/YourUsername/python-crash-course-solutions.git)```
    
 2. **Set up a virtual environment:**
-   ```bash
+   ```
    python -m venv venv
    ## Activation:
    source venv/bin/activate  # Linux/macOS
-   .\venv\Scripts\activate   # Windows
+   .\venv\Scripts\activate   # Windows```
    
 4. **Install dependencies:**
-   ```bash
-  pip install -r requirements.txt
+   ```
+  pip install -r requirements.txt```
 
 
 ## 🛠️ Technologies Used
--Python 3.x
--Pygame (Game development)
--Matplotlib & Plotly (Data science)
--Django (Web development)
--Pytest (Unit testing)
+- Python 3.x
+- Pygame (Game development)
+- Matplotlib & Plotly (Data science)
+- Django (Web development)
+- Pytest (Unit testing)
