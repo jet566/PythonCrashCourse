@@ -1,0 +1,6 @@
+W Pythonie można dowolnie modyfikować ciągi tekstowe.
+W Pythonie można również wykonywać działania matematyczne.
+W Pythonie można tworzyć słowniki, listy oraz krotki.
+W Pythonie można przechowywać zmienne i się nimi posługiwać.
+W Pythonie można tworzyć funkcje.
+I... na dodatek tym wszystkim można posługiwać się naprzemiennie i wszystko łączyć.
