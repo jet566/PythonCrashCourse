@@ -12,14 +12,27 @@ While the project structure follows the book's curriculum, most of the internal 
 ## 📁 Repository Structure
 
 The folders are organized by chapters and project themes for easy navigation:
-
-* `part_1_basics/` – Solutions for Chapters 1-11 (Logic, functions, classes, file handling).
-* `project_1_alien_invasion/` – A complete 2D arcade game built with Pygame.
-* `project_2_data_visualization/` – Data analysis and charts using Matplotlib and Plotly.
-* `project_3_web_apps/` – The "Learning Log" application built with Django.
+- Solutions for Chapters 2-13 (Logic, functions, classes, file handling).
 
 ## 🚀 Getting Started
 
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/YourUsername/python-crash-course-solutions.git](https://github.com/YourUsername/python-crash-course-solutions.git)
+   
+2. **Set up a virtual environment:**
+   python -m venv venv
+   # Activation:
+   source venv/bin/activate  # Linux/macOS
+   .\venv\Scripts\activate   # Windows
+   
+3. **Install dependencies:**
+  pip install -r requirements.txt
+
+
+## 🛠️ Technologies Used
+Python 3.x
+Pygame (Game development)
+Matplotlib & Plotly (Data science)
+Django (Web development)
+Pytest (Unit testing)
