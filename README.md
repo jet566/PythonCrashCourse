@@ -1,0 +1,25 @@
+# Python Crash Course - Solutions 🐍
+
+This repository contains my personal solutions to the exercises and projects from the book **"Python Crash Course"** by Eric Matthes.
+
+While the project structure follows the book's curriculum, most of the internal code comments and variable names are written in **Polish**, reflecting my learning process.
+
+## 📚 About the Book
+*Python Crash Course* is a project-based guide to programming. It is divided into two main parts:
+1.  **Basics:** Covering fundamental concepts like lists, dictionaries, classes, and testing.
+2.  **Projects:** Three large-scale projects including a game (Alien Invasion), data visualization, and a web application.
+
+## 📁 Repository Structure
+
+The folders are organized by chapters and project themes for easy navigation:
+
+* `part_1_basics/` – Solutions for Chapters 1-11 (Logic, functions, classes, file handling).
+* `project_1_alien_invasion/` – A complete 2D arcade game built with Pygame.
+* `project_2_data_visualization/` – Data analysis and charts using Matplotlib and Plotly.
+* `project_3_web_apps/` – The "Learning Log" application built with Django.
+
+## 🚀 Getting Started
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/YourUsername/python-crash-course-solutions.git](https://github.com/YourUsername/python-crash-course-solutions.git)
