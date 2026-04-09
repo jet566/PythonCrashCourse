@@ -19,6 +19,7 @@ The folders are organized by chapters and project themes for easy navigation:
 1. **Clone the repository:**
    ```
    git clone [https://github.com/YourUsername/python-crash-course-solutions.git](https://github.com/YourUsername/python-crash-course-solutions.git)
+   ```
    
 3. **Set up a virtual environment:**
    ```
@@ -26,11 +27,12 @@ The folders are organized by chapters and project themes for easy navigation:
    ## Activation:
    source venv/bin/activate  # Linux/macOS
    .\venv\Scripts\activate   # Windows
+   ```
    
 4. **Install dependencies:**
    ```
    pip install -r requirements.txt
-
+   ```
 
 ## 🛠️ Technologies Used
 - Python 3.x
